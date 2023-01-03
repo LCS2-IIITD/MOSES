@@ -1,0 +1,3 @@
+- Collect multimodal features as described in the repository for MAF: https://github.com/LCS2-IIITD/MAF and put the audio features in "Data/AudioFeatures" and visual features in "Data/VideoFeatures" folders.
+- Textual features with pronunciation embeddings are provided in the "Data/PronunciationEmbeds" folder.
+- Now run: python MOSES.py
